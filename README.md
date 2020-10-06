@@ -1,2 +1,0 @@
-# myRepo
-Untuk resolusi kedepan
